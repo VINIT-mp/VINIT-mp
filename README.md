@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @VINIT-mp
-- 👀 I’m interested in ELECTRICAL ENGINEERING | DATA SCIENCE
-- 🌱 I’m currently learning  POWER ELECTRONICS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @VINIT-mp
+- I’m interested in ELECTRICAL ENGINEERING | DATA SCIENCE
+- I’m currently learning  POWER ELECTRONICS
+
 
 <!---
 VINIT-mp/VINIT-mp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
